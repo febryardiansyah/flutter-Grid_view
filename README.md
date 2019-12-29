@@ -1,7 +1,6 @@
 # grid_view
 
-A new Flutter application.
-
+An example of flutter grid view scroll directon horizontal
 ## Getting Started
 
 This project is a starting point for a Flutter application.
